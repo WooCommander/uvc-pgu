@@ -1,0 +1,25 @@
+# Unity generated files and directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE and generated project files
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# Unity build outputs
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
